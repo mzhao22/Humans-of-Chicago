@@ -1,0 +1,46 @@
+#Stories#
+
+B - 
+“I’ve never thought I’d meet a girl like this. I had no skills talking to girls and never dated one until before graduating from college. I met her at a friend’s party and we talked all night. I asked her out before my sister’s wedding and she was my plus one on the wedding. I knew something was different from that day. Yesterday, we said ‘Yes’ to each other.”
+
+C - 
+“I came to the states because of a exchange student program. I’m  a Brazilian. Here is so different from where I from. The person I missed the most is my boyfriend. I was crying crying crying before I came here knowing he couldn’t come with me. He is my soulmate, I just want to fly back and hug him as long as I want.”
+
+Cy - 
+“I grow up in a big city, I fly back and forth between Chicago, LA and New York for job business. But I found out somehow I lost my interest staying in big cities. I spent 5 years in a small town in New Mexico, it has nothing there, no malls, no chinatowns, no neon lights, it has nothing to do with fancy lives. I just don’t know why that after all these years I have finally achieved what I wanted, but I began to miss that desert every night when I’m alone.”
+
+G - 
+“We have been dated 8 years before we got married. We grew up in the same neighborhood and we watched each other became an adult. We love the same kind of food, we have same hobbies, we went to same college, studied same major, sometimes I wonder really is possible that I found someone matches so perfectly? We never fight with each other. She was like the other version of me.”
+
+Co - 
+“I want to give people smiley face when they see me. People always ask me why I look so happy everyday, I was not like this years ago. I’m from a small town where being a gay is not okay, especially in my family. So I left. I wen to school, I took classes of cosmetics, and I found I’m really good at this. Doing make-ups for people and see them being pretty can really light me up.”
+
+L - 
+“I’m always the best child in my family. I got my high school GPA in 4.0 and I graduated from college with 4.0 GPA as well. My high school paid my college tuition fee so I don’t have to worry about money. It was not because that I’m smart. My mom was like a Chinese parent, she would ask me ‘What is wrong with you?’ if I didn’t get full points in tests. I don’t want let her down so I tried my best. Then I found out it was not that hard as I imagined. I got a good job, and I want to thank my mom. Not only because of those grades she forced me got, but also the attitude of trying and hardworking.”
+
+Le - 
+“Chicago is the first city I stay in the United States. I came to this city because of school, there were many options to me when I got offers, I chose here because of Bulls. Wade is my favorite NBA star and he joined Bulls. I love playing basketball. Maybe I can play professionally in the future.”
+
+Lm - 
+“Before I came to the United States, I heard that people in different race have different ‘little groups’. Like Chinese only play with Chinese people, mostly. I don’t want to live like that. I came from China, I came to here to live like an American, not just live the same life in different city. I went to lots of events. I never hesitated presenting myself. I made lots of friends from different nations. I can say right now I’m living a life I feel right.”
+
+R -
+“Sometimes you met someone and the days before him or her were not important any more. I have met so many girls in my life and I got many attentions from girls since I was a kid, they say I’m good looking, maybe? But I knew I was different. I couldn’t tell when I was a kid. I want to thank my mom, she is the most open, wisest, supportive women in my life, she encouraged me and never blamed me for being different.”
+
+S - 
+“I grow up in Burma, a country in south-east, but my families are Chinese, they immigrated to Burma for work decades ago. So I can speak a little bit Chinese. I went back to Burma during winter break to see my sister, she is in Germany for the most of time for school and I’m in Chicago. We always share our lives with each other, so I can know what lives look like in Europe and she gets to know about America too.”
+
+Y- 
+“Maybe you don’t believe, I came to the states only because I’m gay and I want a better environment to live with. People don’t understand why a guy can have feelings for another guy, they thought I had some mental problem, they thought I was sick and needed treatment. I suffered a lot when I was a kid. Now I’m engaged, and I have a decent job as a programmer. I’m moving to Seattle. I haven’t talked to my family for 11 years now, and I never wanted to go back.”
+
+Zh - 
+“You know sometimes, if you have some parts that look different from other people, they would stare at you and look you with their interesting eyes, I know they think i’m abnormal. I don’t like this kind of feeling. I’m tall, I’m always the tallest boy in school, I’m 195 cm, and people would still looking at me when I walk down the street. I think maybe it would be easier to change the way I think about those attentions other than change others about how they look at me.”
+
+W - 
+“I came to the states 13 years ago. It was funny to say that I actually came to Chicago in tears. I was in Tennessee for school and got job offer in here after graduate from college. You know Chicago was so different 10 years ago, homeless people were walking at downtown and I felt dangerous all the time. I cried every night. Maybe you can see me look great, have everything I want, I have my own business, but I was a cowardly, shy girl when I first got here.”
+
+R - 
+“I started my company 27 years ago. Now I have thousands of employees work for me. But it was never easy. I still couldn’t forget those nights I stayed up thinking about ideas, making phone calls to my clients and put up with those un-trustness, betrayal and failure. Chicago is where I started and this city has been giving me so many surprises. I do think it is better for young people who want to fight for their future.”
+
+S - 
+“I grow up here and I really don’t have much to say about how I feel about it, my life has always been busy, I have to deal with my studio, my work, my second job, and my classes. I have no time thinking sometimes. I guess the most thing I love this city is that she taught me to be an interesting person. This city changes so fast and there are lots of things I can explore, I want to be as interesting as my city.”
