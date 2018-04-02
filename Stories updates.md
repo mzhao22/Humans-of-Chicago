@@ -42,5 +42,20 @@ W -
 R - 
 “I started my company 27 years ago. Now I have thousands of employees work for me. But it was never easy. I still couldn’t forget those nights I stayed up thinking about ideas, making phone calls to my clients and put up with those un-trustness, betrayal and failure. Chicago is where I started and this city has been giving me so many surprises. I do think it is better for young people who want to fight for their future.”
 
-S - 
+Yc - 
+“As a foreigner, I never thought Chicago can be that understanding. I thought people live in big cities are just like those saying, they should be cold blooded, selfish and profit-driven. There are so many homeless people in the city, but I have seen homeless people giving their food to homeless dogs, and help each other. I was surprised. I think Chicago has its beauty not just because its skyline, but also people who live here. ”
+
+Sw - 
+“My friends always think me as a happy girl, I laugh and smile all the time to people. I have a social network account that nobody knows. I post all my bad moods, bad feelings and negative thoughts on it. It contains the darkest side of me, the side no one knows. I hope one day I can tell people how I really feel, instead of faking smiles and being nice. I’m tired of getting people’s like, maybe I don’t need that much attention.”
+
+Bw - 
+“I have been thinking about studying in America for many years. I was regret that I could not come earlier. Now I have lost much of interest of starting a new life in a new country. I have lots of friends here, I can say I’m happy here, but the truth is I care less, and I feel less. I wish I could be here in my younger ages, I really like the environment and society here.”
+
+Mi - 
+“I never dated white guy before. My family moved to Chicago when I was six, so I was raised here. But I only date Asian guys. I was too afraid of people saying those stereotypes like ‘oh you asian girl just like date white guys.’ But now I have a boyfriend and he’s white, I was worried about how people look at us, but he is not. Now I become more confident and less worried because of him.”
+
+St - 
 “I grow up here and I really don’t have much to say about how I feel about it, my life has always been busy, I have to deal with my studio, my work, my second job, and my classes. I have no time thinking sometimes. I guess the most thing I love this city is that she taught me to be an interesting person. This city changes so fast and there are lots of things I can explore, I want to be as interesting as my city.”
+
+Yq - 
+“I’m from Beijing, the capita city in China. You know there is a traditional food called roasted ducks in Beijing, and I love that dish. It took me a long time to find a restaurant can cook it right. I can drive 2 hours just for a bite of the duck. I miss Beijing so much, Chicago has so many kind of food but it doesn’t have good roasted ducks.”
