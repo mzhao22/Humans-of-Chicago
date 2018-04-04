@@ -23,43 +23,13 @@ h1, h2 {
     text-align: center;
 }
 
-/*-----------------*/
 /*----Index Page---*/
-/*-----------------*/
-/*Header*/
-header ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #f5a09b;
-}
-
-header li {
-    float: left;
-}
-
-header li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 0.875em 1em;
-    text-decoration: none;
-}
-
-header li a:hover:not(.active) {
-    background-color: #111;
-}
-
-header .active {
-    background-color: #4CAF50;
-}
 
 /*Top Part*/
 .top {
     background: #cc6666;
     position:relative;
-    height: 52em;
+    height: 49em;
 }
 
 .main-bg {
@@ -70,23 +40,12 @@ header .active {
 }
 
 .main {
-    box-sizing: border-box;
     height: 21.250em;
     padding-top: 1em;
 }
 
 .main  h2{
   color: #ffffff;
-}
-
-.clearfix:before,
-.clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
-}
-
-.clearfix:after {
-    clear: both;
 }
 
 
@@ -183,85 +142,169 @@ article section.parallax {
   text-align: left;
 }
 
+/* media queries */
 
+@media screen and (max-width: 400px) {
+    body, html {
+      height: 100%;
+      font-family:'Dosis', sans-serif;
+      font-size: 1em;
+    }
+    h1 {
+        font-size: 1em;
+    }
+    h2 {
+        font-size: 1.1em;
+    }
+    h1, h2 {
+        font-weight: normal;
+        text-align: center;
+    }
+    .top {
+        height: 30em;
+    }
+    .main-bg {
+        width: 100%;
+        height: 20em;
+    }
 
+/*Article  Parallax */
 
-/*Meida Query*/
-@media screen and (max-width: 370px) {
+    .parallax [class*="bg-"] {
+      position: relative;
+      height: 35em;
+    }
 
-  article .container {
-    width: 15.625em;
-  }
+    .parallax-content {
+      width: 12.5em;
+      font-size: 1.2em;
+    }
+
+    .parallax-content-break {
+      font-size: 1.2em;
+    }
+
+    .grid-container {
+      display: block;
+      grid-row-gap: 1px;
+      grid-template-columns: auto;
+      padding: 0px;
+    }
+    .grid-item {
+      padding: inherit;
+      font-size: 1.2em;
+      text-align: left;
+    }
+  img {
+    width: 100%;
+    height: auto;
+}
 }
 
-@media screen and (max-width: 420px) {
-  .parallax {
-    display: none;
-  }
-
-  .parallax-header {
-    display: none;
-  }
-}
-@media screen and (max-width: 625px) {
-  .top {
-    height: 37.5em;
-  }
-
-  .intro-bg {
-    height: 23.750em;
-  }
-
-  .social-network h3 {
-    margin-top: 4.375em;
-  }
-
-  .parallax [class*="bg-"] {
-    height: 38em;
-  }
-
-}
-
-@media screen and (max-width: 720px) {
-   .parallax [class*="bg-"] {
-    height: 45em;
-  }
-}
-@media screen and (max-width: 920px) {
-   .parallax [class*="bg-"] {
-    height: 70vh;
-  }
-  .parallax-header {
-    margin: -2.5em 0 0 0;
-    padding: 0.5em;
-  }
-
-  article h1{
-    font-size: 1em;.parallax [class*="bg-"] {
-  position: relative;
-  height: 50em;
-}
-  }
-  section h1 {
-    font-size: 1.5em;
-  }
-  .intro h2 {
+@media screen and (min-width: 401px) and (max-width: 720px) {
+  body, html {
+    height: 100%;
+    font-family:'Dosis', sans-serif;
     font-size: 1em;
   }
+  h1 {
+      font-size: 1em;
+  }
+  h2 {
+      font-size: 1.1em;
+  }
+  h1, h2 {
+      font-weight: normal;
+      text-align: center;
+  }
+  .top {
+      height: 30em;
+  }
+  .main-bg {
+      width: 100%;
+      height: 20em;
+  }
 
-}
-@media screen and (max-width: 1185px) {
-   .parallax [class*="bg-"] {
-    height: 80vh;
-  }
-  .parallax .bg-1, .parallax .bg-2 {
-    height: 90vh;
+/*Article  Parallax */
+
+  .parallax [class*="bg-"] {
+    height: 35em;
   }
 
-}
-@media screen and (min-width: 1186px){
-  article .container {
-    width: 37.5em;
-    margin: 0 auto;
+  .parallax-content {
+    font-size: 1.6em;
   }
+
+  .parallax-content-break {
+    font-size: 1.6em;
+  }
+
+  .grid-container {
+    display: block;
+    grid-row-gap: 1px;
+    grid-template-columns: auto;
+    padding: 0px;
+  }
+  .grid-item {
+    font-size: 1.3em;
+
+  }
+img {
+  width: 100%;
+  height: auto;
+}
+}
+
+@media screen and (min-width: 721px) and (max-width: 950px) {
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    h2 {
+        font-size: 1.5em;
+    }
+
+    .top {
+        background: #cc6666;
+        position:relative;
+        height: 45em;
+    }
+
+    .main-bg {
+        width: 100%;
+        height: 30em;
+        background: #000 url("../images/chicagobg.jpg") no-repeat center center;
+        background-size: cover;
+    }
+
+
+    /*Article  Parallax */
+    .parallax [class*="bg-"] {
+      height: 35em;
+    }
+
+    .parallax-content {
+      font-size: 1.6em;
+    }
+
+    .parallax-content-break {
+      font-size: 1.6em;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-row-gap: 30px;
+      grid-template-columns: auto auto;
+      padding: 10px;
+    }
+    .grid-item {
+      padding: 10px;
+      font-size: 1.2em;
+      text-align: left;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
 }
