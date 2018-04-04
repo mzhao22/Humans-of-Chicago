@@ -5,6 +5,7 @@ body, html {
   height: 100%;
   font-family:'Dosis', sans-serif;
   font-size: 1.1em;
+  background-color: #f9e3e6;
 }
 
 h1 {
@@ -279,7 +280,7 @@ img {
 }
 }
 
-@media screen and (min-width: 721px) and (max-width: 950px) {
+@media screen and (min-width: 721px) and (max-width: 1200px) {
 
     h1 {
         font-size: 1.8em;
@@ -330,19 +331,87 @@ img {
 }
 
 /* About Page */
+.aboutbody {
+  background-color: #f9e3e6;
+}
+
 .about-h1 {
   font-size: 1.2em;
   margin: inherit;
 }
 
 .about-h1 h1{
-    color: black;
+    color: brown;
+}
+
+.about-container {
+  text-align:left;
+  display: block;
+  padding-left: 10em;
+  padding-right: 10em;
+}
+.about-container p {
+  font-size: 1.2em;
+  color: brown;
 }
 
 .about-parallax .about-bg-break {
-  box-shadow: inset 0 0 1em #c4c1c1;
   background: #000 url("../images/chicagobg3.jpg") no-repeat center center;
   background-size:cover;
   height: 30em;
   background-attachment: fixed;
+}
+
+.footer {
+  text-align: center;
+  display: block;
+  padding-top: 2em;
+}
+
+/* About Page Media Queries */
+
+@media screen and (max-width: 400px) {
+  .about-h1 {
+    font-size: 0.8em;
+    margin: inherit;
+  }
+
+  .about-container {
+    text-align: inherit;
+    display: inline;
+  }
+  .about-parallax .about-bg-break {
+    background: #000 url("../images/chicagobg3.jpg") no-repeat center center;
+    background-size: cover;
+    height: 30em;
+    background-attachment: fixed;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 720px) {
+  .about-h1 {
+    font-size: 1em;
+    margin: inherit;
+  }
+
+  .about-container {
+    text-align:left;
+    display: block;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+
+@media screen and (min-width: 721px) and (max-width: 1200px) {
+  .about-h1 {
+    font-size: 1em;
+    margin: inherit;
+  }
+
+  .about-container {
+    text-align:left;
+    display: block;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
 }
