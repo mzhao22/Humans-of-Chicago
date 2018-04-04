@@ -23,11 +23,40 @@ h1, h2 {
     text-align: center;
 }
 
-/*----Index Page---*/
+/* Index Page */
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f78c8c;
+}
 
-/*Top Part*/
+header li {
+    float: left;
+}
+
+header li a {
+    display: block;
+    background-color: #f1c01d;
+    color: white;
+    text-align: center;
+    padding: 1em 3em;
+    text-decoration: none;
+}
+
+header li a:hover:not(.active) {
+    background-color: green;
+}
+
+header .click {
+    background-color: #f1c01d;
+    color: white;
+}
+
+/* Top Part */
 .top {
-    background: #cc6666;
+    background: #f78c8c;
     position:relative;
     height: 49em;
 }
@@ -49,7 +78,8 @@ h1, h2 {
 }
 
 
-/*Article  Parallax */
+/* Article / Parallax */
+
 .parallax [class*="bg-"] {
   position: relative;
   height: 50em;
@@ -135,7 +165,7 @@ article section.parallax {
   text-align: left;
 }
 
-/* media queries */
+/* Media Queries */
 
 @media screen and (max-width: 400px) {
     body, html {
@@ -143,6 +173,11 @@ article section.parallax {
       font-family:'Dosis', sans-serif;
       font-size: 1em;
     }
+
+    header li a {
+        padding: 0.7em 1em;
+    }
+
     h1 {
         font-size: 1em;
     }
@@ -292,4 +327,22 @@ img {
       width: 100%;
       height: auto;
     }
+}
+
+/* About Page */
+.about-h1 {
+  font-size: 1.2em;
+  margin: inherit;
+}
+
+.about-h1 h1{
+    color: black;
+}
+
+.about-parallax .about-bg-break {
+  box-shadow: inset 0 0 1em #c4c1c1;
+  background: #000 url("../images/chicagobg3.jpg") no-repeat center center;
+  background-size:cover;
+  height: 30em;
+  background-attachment: fixed;
 }
