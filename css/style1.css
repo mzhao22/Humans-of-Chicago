@@ -69,7 +69,8 @@ h1, h2 {
 .parallax .bg-break {
   box-shadow: inset 0 0 1em #c4c1c1;
   background: #000 url("../images/chicagobg2.jpg") no-repeat center center;
-  background-size: cover;
+  background-size:cover;
+  height: 35em;
   background-attachment: fixed;
 }
 
@@ -95,7 +96,7 @@ h1, h2 {
 .parallax-content-break {
   float: right;
   margin: 5.5em 1em 0 2em;
-  font-size: 1.250em;
+  font-size: 1.5em;
 }
 
 h1 a {
