@@ -164,6 +164,7 @@ article section.parallax {
   padding: 20px;
   font-size: 1.2em;
   text-align: left;
+  color: #660c1e;
 }
 
 /* Media Queries */
@@ -358,7 +359,7 @@ img {
 .about-parallax .about-bg-break {
   background: #000 url("../images/chicagobg3.jpg") no-repeat center center;
   background-size:cover;
-  height: 30em;
+  height: 40em;
   background-attachment: fixed;
 }
 
