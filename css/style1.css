@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 
 body, html {
-  height: 100%;
   font-family:'Dosis', sans-serif;
   font-size: 1.1em;
 }
@@ -169,7 +168,6 @@ article section.parallax {
 
 @media screen and (max-width: 400px) {
     body, html {
-      height: 100%;
       font-family:'Dosis', sans-serif;
       font-size: 1em;
     }
@@ -229,7 +227,6 @@ article section.parallax {
 
 @media screen and (min-width: 401px) and (max-width: 720px) {
   body, html {
-    height: 100%;
     font-family:'Dosis', sans-serif;
     font-size: 1em;
   }
