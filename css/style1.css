@@ -196,15 +196,18 @@ article section.parallax {
         height: 20em;
     }
 
-    .parallax {
-      transform: none;
-    }
-
     .parallax [class*="bg-"] {
-        transform: none;
-        position: absolute;
-        background-size: 100% auto;
+        position: relative;
         height: 35em;
+      }
+
+    .parallax-content {
+        width: 12.5em;
+        font-size: 1.2em;
+      }
+
+    .parallax-content-break {
+        font-size: 1.2em;
       }
 
     .grid-container {
