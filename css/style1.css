@@ -196,18 +196,8 @@ article section.parallax {
         height: 20em;
     }
 
-    .parallax [class*="bg-"] {
-      position: relative;
-      height: 35em;
-    }
-
-    .parallax-content {
-      width: 12.5em;
-      font-size: 1.2em;
-    }
-
-    .parallax-content-break {
-      font-size: 1.2em;
+    .Parallax {
+      transform: none;
     }
 
     .grid-container {
