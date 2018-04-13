@@ -155,12 +155,12 @@ article section.parallax {
 
 .grid-container {
   display: grid;
-  grid-row-gap: 20px;
+  grid-row-gap: 1.2em;
   grid-template-columns: auto auto;
-  padding: 20px;
+  padding: 0.5em;
 }
 .grid-item {
-  padding: 20px;
+  padding: 1.2em;
   font-size: 1.2em;
   text-align: left;
   color: #660c1e;
@@ -212,7 +212,6 @@ article section.parallax {
 
     .grid-container {
       display: block;
-      grid-row-gap: 1px;
       grid-template-columns: auto;
       padding: 0px;
     }
