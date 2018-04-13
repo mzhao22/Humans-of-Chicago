@@ -213,7 +213,7 @@ article section.parallax {
     .grid-container {
       display: block;
       grid-template-columns: auto;
-      padding: 0px;
+      padding: 0em;
     }
     .grid-item {
       padding: inherit;
@@ -263,9 +263,9 @@ article section.parallax {
 
   .grid-container {
     display: block;
-    grid-row-gap: 1px;
+    grid-row-gap: 1em;
     grid-template-columns: auto;
-    padding: 0px;
+    padding: 0em;
   }
   .grid-item {
     font-size: 1.3em;
@@ -312,12 +312,12 @@ img {
 
     .grid-container {
       display: grid;
-      grid-row-gap: 30px;
+      grid-row-gap: 1.875em;
       grid-template-columns: auto auto;
-      padding: 10px;
+      padding: 0.625em;
     }
     .grid-item {
-      padding: 10px;
+      padding: 0.625em;
       font-size: 1.2em;
       text-align: left;
     }
