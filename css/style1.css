@@ -201,6 +201,7 @@ article section.parallax {
     }
 
     .parallax [class*="bg-"] {
+        transform: none;
         position: absolute;
         background-size: 100% auto;
         height: 35em;
