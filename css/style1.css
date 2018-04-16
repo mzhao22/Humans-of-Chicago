@@ -198,9 +198,17 @@ article section.parallax {
 
     .parallax {
       transform: none;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100% auto;
     }
 
     .parallax [class*="bg-"] {
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100% auto;
         transform: none;
       }
 
