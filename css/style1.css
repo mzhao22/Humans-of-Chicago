@@ -367,10 +367,10 @@ img {
     display: none;
   }
 
-  .parallax [class*="bg-"] {
+  .parallax [class*="about.bg-"] {
     display: none;
     }
-    
+
   .about-h1 {
     font-size: 0.8em;
     margin: inherit;
