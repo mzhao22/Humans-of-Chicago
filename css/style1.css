@@ -362,6 +362,15 @@ img {
 /* About Page Media Queries */
 
 @media screen and (max-width: 400px) {
+
+  .parallax {
+    display: none;
+  }
+
+  .parallax [class*="bg-"] {
+    display: none;
+    }
+    
   .about-h1 {
     font-size: 0.8em;
     margin: inherit;
