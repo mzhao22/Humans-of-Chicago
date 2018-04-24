@@ -196,9 +196,18 @@ article section.parallax {
         height: 20em;
     }
 
+<<<<<<< HEAD
     .parallax [class*="bg-"] {
         position: relative;
         height: 35em;
+=======
+    .parallax {
+      display: none;
+    }
+
+    .parallax [class*="bg-"] {
+      display: none;
+>>>>>>> 7981d9724f1b4d6b4efb0a51a75108a2b77f51aa
       }
 
     .parallax-content {
@@ -368,6 +377,15 @@ img {
 /* About Page Media Queries */
 
 @media screen and (max-width: 400px) {
+
+  .parallax {
+    display: none;
+  }
+
+  .parallax [class*="about.bg-"] {
+    display: none;
+    }
+
   .about-h1 {
     font-size: 0.8em;
     margin: inherit;
