@@ -24,7 +24,7 @@ h1, h2 {
 }
 
 /* Index Page */
-header ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -32,11 +32,11 @@ header ul {
     background-color: #f78c8c;
 }
 
-header li {
+nav li {
     float: left;
 }
 
-header li a {
+nav li a {
     display: block;
     background-color: #f1c01d;
     color: white;
@@ -45,11 +45,11 @@ header li a {
     text-decoration: none;
 }
 
-header li a:hover:not(.active) {
+nav li a:hover:not(.active) {
     background-color: green;
 }
 
-header .click {
+nav .click {
     background-color: #f1c01d;
     color: white;
 }
@@ -174,7 +174,7 @@ article section.parallax {
       font-size: 1em;
     }
 
-    header li a {
+    nav li a {
         padding: 0.7em 1em;
     }
 
@@ -196,27 +196,12 @@ article section.parallax {
         height: 20em;
     }
 
-<<<<<<< HEAD
-    .parallax [class*="bg-"] {
-        position: relative;
-        height: 35em;
-=======
     .parallax {
       display: none;
-    } 
+    }
 
     .parallax [class*="bg-"] {
       display: none;
->>>>>>> 7981d9724f1b4d6b4efb0a51a75108a2b77f51aa
-      }
-
-    .parallax-content {
-        width: 12.5em;
-        font-size: 1.2em;
-      }
-
-    .parallax-content-break {
-        font-size: 1.2em;
       }
 
     .grid-container {
