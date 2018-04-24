@@ -366,13 +366,9 @@ img {
 
 @media screen and (max-width: 400px) {
 
-  .parallax {
+  .about-parallax .about-bg-break {
     display: none;
   }
-
-  .parallax [class*="about.bg-"] {
-    display: none;
-    }
 
   .about-h1 {
     font-size: 0.8em;
