@@ -54,6 +54,36 @@ nav .click {
     color: white;
 }
 
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f78c8c;
+}
+
+footer li {
+    float: left;
+}
+
+footer li a {
+    display: block;
+    background-color: #f1c01d;
+    color: white;
+    text-align: center;
+    padding: 1em 3em;
+    text-decoration: none;
+}
+
+footer li a:hover:not(.active) {
+    background-color: green;
+}
+
+footer .click {
+    background-color: #f1c01d;
+    color: white;
+}
+
 /* Top Part */
 .top {
     background: #f78c8c;
@@ -356,10 +386,10 @@ img {
   background-attachment: fixed;
 }
 
-.footer {
+.note {
   text-align: center;
   display: block;
-  padding-top: 2em;
+  padding: 2em;
 }
 
 /* About Page Media Queries */
