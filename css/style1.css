@@ -198,7 +198,7 @@ article section.parallax {
 
     .parallax {
       display: none;
-    }
+    } 
 
     .parallax [class*="bg-"] {
       display: none;
