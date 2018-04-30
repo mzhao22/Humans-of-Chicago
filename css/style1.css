@@ -4,18 +4,19 @@
 body, html {
   font-family:'Dosis', sans-serif;
   font-size: 1.1em;
-  background-color: #F78C8C;
+  background-color: #ffbab3;
 }
 
 h1 {
     font-size: 2em;
     margin: inherit;
-    color: #fff;
+    color: #800000;
 }
 
 h2 {
     font-size: 1.5em;
     padding-bottom: 2em;
+    color:
 }
 
 
@@ -172,6 +173,7 @@ h1 a:hover {
 }
 
 div .container {
+  background-color: #000;
   margin: 0 auto;
   text-align: justify;
 }
