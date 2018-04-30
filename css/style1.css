@@ -4,14 +4,7 @@
 body, html {
   font-family:'Dosis', sans-serif;
   font-size: 1.1em;
-  background-color: #f9e3e6;
-}
-
-nav {
-  position: absolute;
-  width: 100%;
-  top: 0;
-  left: 0;
+  background-color: #F78C8C;
 }
 
 h1 {
@@ -22,6 +15,7 @@ h1 {
 
 h2 {
     font-size: 1.5em;
+    padding-bottom: 2em;
 }
 
 
@@ -31,6 +25,13 @@ h1, h2 {
 }
 
 /* Index Page */
+nav {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -92,11 +93,7 @@ footer .click {
 }
 
 /* Top Part */
-.top {
-    background: #f78c8c;
-    position:relative;
-    height: 49em;
-}
+
 
 .main-bg {
     width: 100%;
@@ -174,7 +171,7 @@ h1 a:hover {
   color: white;
 }
 
-article .container {
+div .container {
   margin: 0 auto;
   text-align: justify;
 }
@@ -366,12 +363,22 @@ img {
   background-color: #f9e3e6;
 }
 
+nav {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
 .about-h1 {
+    padding-top: 2em;
   font-size: 1.2em;
   margin: inherit;
 }
 
 .about-h1 h1{
+  padding-top: 2em;
+  font-size: 1.2em;
     color: brown;
 }
 
