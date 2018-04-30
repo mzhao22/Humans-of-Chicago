@@ -363,22 +363,15 @@ img {
   background-color: #f9e3e6;
 }
 
-nav {
-  position: absolute;
-  width: 100%;
-  top: 0;
-  left: 0;
-}
-
 .about-h1 {
-    padding-top: 2em;
+  padding-top: 2em;
   font-size: 1.2em;
   margin: inherit;
 }
 
 .about-h1 h1{
-  padding-top: 2em;
-  font-size: 1.2em;
+  padding-top: 1.2em;
+  font-size: 1.6em;
     color: brown;
 }
 
@@ -388,6 +381,7 @@ nav {
   padding-left: 10em;
   padding-right: 10em;
 }
+
 .about-container p {
   font-size: 1.2em;
   color: brown;
