@@ -46,4 +46,4 @@ Week 15
 Finish the paper comes with the project
 TBA
 
-A little thinking beyond the project…
+
